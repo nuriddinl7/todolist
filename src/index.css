@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+  background-color: #66CCFF;
+}
+#container {
+  display: flex;
+  justify-content: center;
+}
+
+.todoListMain .theList {
+  list-style: none;
+  padding-left: 0;
+  width: 250px;
+} 
+
+.todoListMain .theList li {
+  color: #333;
+  background-color: rgba(255,255,255,.5);
+ 
+}
+ 
